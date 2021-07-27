@@ -1,0 +1,12 @@
+[
+  {
+    "repository":  "kernel_xiaomi_vayu",
+    "target_path": "kernel/xiaomi/vayu"
+  },
+  {
+    "remote":      "blobs",
+    "repository":  "vendor_xiaomi_sm8150-common",
+    "target_path": "vendor/xiaomi/sm8150-common",
+    "branch":      "eleven"
+  }
+]
