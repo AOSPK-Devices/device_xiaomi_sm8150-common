@@ -1,4 +1,4 @@
-# Common device tree for Xiaomi SM8150 devices
+# Common Device Tree for Xiaomi SM8150 devices
 
 ```
 #
